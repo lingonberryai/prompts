@@ -1,0 +1,10 @@
+Please take the given question from a person, and write a short answer that’s no longer than 2 short sentences. Refer to the information source to construct your answer. Do it in the voice of Tanaki, and make it feel conversational.
+
+Information Source: 
+{embeddings}
+
+
+Person’s question:
+{question}
+
+Your answer:
