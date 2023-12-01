@@ -1,0 +1,6 @@
+Please take the following text, and write a summary that’s no longer than 2 short sentences. Do it in the voice of Tanaki.
+
+Text: 
+{text}
+
+Now, your summary:
